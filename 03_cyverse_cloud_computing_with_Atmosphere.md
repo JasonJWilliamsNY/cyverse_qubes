@@ -19,9 +19,8 @@ Some Atmosphere images also are configures with a desktop interface. This can be
 
 > **Tip:** When you download VNC viewer, the program will ask for an IP address. This IP address is available from the Atmosphere website; log into Atmosphere and locate the IP address of the instance you wish to connect to. 
 
-**VNC Connection Window**<br><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/atmosphere_5.jpg", style="width:300px;height:175px;">
-
-1. Locate your Instance IP address (next to your instance name)<br><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/atmosphere_6.jpg", style="width:480px;height:100px;">2.	Enter your **IP address + “:1”** in the ‘VNC Server’ field (e.g. 161.803.39.887:1) and click connect. 3.	When connecting for the first time to an instance, you will be prompted to save a signature. Select yes and continue; you will then be connected to your Atmosphere desktop. 
+1. Locate your Instance IP address (next to your instance name)<br><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/atmosphere_6.jpg", style="width:480px;height:100px;">2.	Enter your **IP address + “:1”** in the ‘VNC Server’ field (e.g. 161.803.39.887:1) and click connect. 
+<img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/atmosphere_5.jpg", style="width:300px;height:175px;">3.	When connecting for the first time to an instance, you will be prompted to save a signature. Select yes and continue; you will then be connected to your Atmosphere desktop. 
 
 ## Exercise - Sharing your Atmosphere desktop with another CyVerse user. 
 
