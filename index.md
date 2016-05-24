@@ -21,25 +21,18 @@ In this guide we will cover brief tutorials and documentation that will get you 
 
 * [Account creation and setup](./01_cyverse_account_creation.md)
 * [Uploading, importing, and managing data](./02_cyverse_importing_data.md)
-* [Using Discovery Environment (web-interface to data, tools, and analysis)](./03_cyverse_analyzing_data_with_Discovery_Environment.md)
-* [Using Atmosphere cloud computing](./04_cyverse_cloud_computing_with_Atmosphere.md)
-* [Understanding CyVerse help resources and policies](./05_cyverse_help_and_policies.md)
+* [Using Atmosphere cloud computing](./03_cyverse_cloud_computing_with_Atmosphere.md)
+*  [Importing data into Atmosphere](./04_cyverse_importing_data_into_atmosphere_instances.md)
+*  [Cloud computing extras](./05_cyverse_cloud_computing_extras.md)
+* [Understanding CyVerse help resources and policies](./06_cyverse_help_and_policies.md)
 
-Importantly, we **will not** cover some other key cyberinfrastructure components but you should be aware of them:
-
-* [Managing images with BISQUE](http://www.cyverse.org/bisque)
-* [Classroom-friendly bioinformatics with DNA Subway](http://dnasubway.iplantcollaborative.org/)
-* [Developers resources with Agave API](http://agaveapi.co/)
 
 ## Important Downloads
 
 |Topic|Resource|
 |-----|--------|
 |Workshop Intro|[Slides](./ppts_pdfs/workshop_intro.pdf)|
-|Data Store |[Slides](./ppts_pdfs/data_store.pdf)|
-|Discovery Environment|[Slides](./ppts_pdfs/discovery_environment.pdf)|
 |Atmosphere|[Slides](./ppts_pdfs/atmosphere.pdf)|
-|Example Science Applications|[Slides](./ppts_pdfs/example_science_applications.pdf)|
 |Genomics Workflows|[Brochure](./ppts_pdfs/genome_workflows.pdf)|
 
 ### Utilities/software
