@@ -7,7 +7,7 @@ A key feature of CyVerse cyberinfrastructure is that one set of credentials (you
 
 ## Sign up from user portal
 
-1. Visit the user portal at: [http://user.iplantcollaborative.org/](http://user.iplantcollaborative.org/)
+1. Visit the user portal at: [https://user.cyverse.org/](https://user.cyverse.org/)
 2. Register for a CyVerse account
 3. Check your email for an account confirmation link and follow the confirmation instructions. 
 
