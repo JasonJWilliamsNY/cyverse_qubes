@@ -80,6 +80,6 @@ $ iput -P remote_machine_file.txt .
     |Password|your CyVerse password|
     |Default Resources|iplantRG|
     
-5. Select the data.iplantcollaborative.org line for your host and then lick click the authentication icon <img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/authentication_icon.jpg", style="width:20px;height:20px;">   to access the data store. One first setup you may wish to select the “Show GUI at Startup.” option if prompted. 
+5. Select the data.iplantcollaborative.org line for your host and then lick click the authentication icon <img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/authenticate_icon.jpg", style="width:20px;height:20px;">   to access the data store. One first setup you may wish to select the “Show GUI at Startup.” option if prompted. 
 6. To upload – select the place on your local computer (left column) where the files are located: - Windows – select your hard drive (e.g. C:\) and then navigate your directory
  - Mac/Linux – select the files or folder you wish to move (most items will be in the /home directoryThen drag the file(s) or folder(s) you wish to transfer into your iPlant Data Store (right column). 7. To download – select the file(s) or folder(s) in your Data Store and drag them to a location on your local computer (left column). To upload data to the Data Store drag the item from a location on your local computer (left column) to the Data Store (right column). 
