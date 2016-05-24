@@ -22,14 +22,14 @@ Some Atmosphere images also are configures with a desktop interface. This can be
 1. Locate your Instance IP address (next to your instance name)<br><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/atmosphere_6.jpg", style="width:480px;height:100px;">2.	Enter your **IP address + “:1”** in the ‘VNC Server’ field (e.g. 161.803.39.887:1) and click connect. 
 <img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/atmosphere_5.jpg", style="width:300px;height:175px;">3.	When connecting for the first time to an instance, you will be prompted to save a signature. Select yes and continue; you will then be connected to your Atmosphere desktop. 
 
-## Exercise - Sharing your Atmosphere desktop with another CyVerse user. 
+### Terminating your Atmosphere instance
 
-One of the advantages of computing within CyVerse is shared credentials and user profiles on common computing resources. This makes it easy to transfer data, and to enable collaborator access securely. In this exercise, you will share your Atmosphere desktop with another CyVerse user. 
+When you are finished with your instance, you must terminate. Follow the following steps. 
 
-1. Get the username of another CyVerse user and give them your IP address (from the Atmosphere website). 
-2. Connect to your Atmosphere instance via VNC. 
-3. In your Atmosphere instance, click the **VNC** icon in the upper right-hand corner of the Desktop; this will open a _VNC Server_ window. <br><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/atmosphere_7.jpg", style="width:300px;height:150px;">
-4. Click the **More** button on the _VNC Server_ window and select _Options..._; A _VNC Server Options_ window will open.<br><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/atmosphere_8.jpg", style="width:300px;height:350px;">
-5. Select _Users & Permissions_ from the _VNC Server Options_ window, then click on **Add**.; Enter the CyVerse username of the collaborator you wish to share with; the click **OK**<br><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/atmosphere_9.jpg", style="width:300px;height:350px;">
-6. Make any adjustments to the user permissions, click **Apply**, the click **OK**. Close the _VNC Server_ window. 
-7. Your collaborator can now enter the IP address (+“:1”) to their VNC viewer as the server to connect to. They can connect using  their CyVerse username and their user credentials. 
+1. If necessary, sign into Atmosphere: [http://atmo.iplantcollaborative.org/](http://atmo.iplantcollaborative.org/)
+2. Locate your instance (e.g. select 'Projects' and then select the project that contains the instance you will terminate.)
+3. Click on the instance name to get to the 'Actions' menu. You may then select the 'Delete' button to terminate the instance.  
+
+    > **Warning:** This will delete any data on this instance, so you must move any data you wish to save off the instance (for example by using iCommands). 
+5. After reading the warning and confirming you are ready, click 'Terminate' to terminate the instance. 
+
