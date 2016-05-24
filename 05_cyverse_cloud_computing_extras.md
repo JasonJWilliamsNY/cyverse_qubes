@@ -96,11 +96,9 @@ You instance will now be launched. You should follow the links to 'Create billin
 3. At the bottom of the dashboard, you should see a **Public DNS** which will look something like *ec2.12.2.45.678.compute-1.amazonaws.com*. Copy that address (you may wish make a note of it as you will need this each time you connect. 
  <p><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/logging-onto-cloud_6.png"width="500"></p>
 4. Open the terminal application on your Mac and use 'ssh' to connect. Your command will be:
-
 ```bash
     $ ssh dcuser@your.amazon.dns
-```
-
+``` 
 5. Your computer will be unable to verify the authenticity of the host... type **yes** to continue connecting
 6. Then enter the password for this computer: 'data4Carp'
 
