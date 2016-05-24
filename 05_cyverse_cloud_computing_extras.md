@@ -42,7 +42,7 @@ There are several cloud providers to choose from. Some scientific clouds may eit
 
 #### Open Science Clouds
 * [Atmosphere](https://pods.iplantcollaborative.org/wiki/display/atmman/Getting+Started)
-* [JetStream](http://jetstream-cloud.org/)*
+* [JetStream](http://jetstream-cloud.org/)
 
 
 ## Launching an Cloud Instance (Virtual Machine)
@@ -58,8 +58,12 @@ We will provide instructions for working on the *Amazon* and the *Atmosphere* cl
 
 * Form of payment (credit card)*
 * Understanding of Amazon's billing and payment (See: [Getting started with AWS Billing and Cost Management](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-getting-started.html))
+* An image to launch: Amazon maintains a [Catalogue of images ('amis')](https://aws.amazon.com/marketplace/ref=mkt_ste_amis_redirect?b_k=291). 
 
-\* You can use some of Amazon Web Services for free, or see if you qualify for an AWS Grant (See: [https://aws.amazon.com/grants/](https://aws.amazon.com/grants/) ) if you are using AWS for education. The free level of service *will not* be sufficient for working with the amount of data we are using for our lessons. 
+**In this tutorial:** We will be referring to the Amazon instance used in Data Carpentry's [Genomics Lessons](http://www.datacarpentry.org/lessons/): You can find this on Amazon by searching for: **ami-5bc63136**
+
+
+*Tip:* You can use some of Amazon Web Services for free, or see if you qualify for an AWS Grant (See: [https://aws.amazon.com/grants/](https://aws.amazon.com/grants/) ) if you are using AWS for education. The free level of service *will not* be sufficient for working with the amount of data we are using for our lessons. 
 
 #### Create an AWS account
 
@@ -70,7 +74,7 @@ We will provide instructions for working on the *Amazon* and the *Atmosphere* cl
 #### Sign into AWS and Launch an Instance
 1. Sign into AWS EC2 Dashboard: [https://console.aws.amazon.com/ec2/](https://console.aws.amazon.com/ec2/)
 2. Click the 'Launch Instance' button<p><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/logging-onto-cloud_1.png" width="500"></p>
-3. In 'Step 1' you will be asked to choose an Amazon Machine Image (AMI), on the lefthand side, look for 'Community AMIs' and then search for **ami-6516b30e**; select this image
+3. In 'Step 1' you will be asked to choose an Amazon Machine Image (AMI), on the lefthand side, look for 'Community AMIs' and then search for **ami-5bc63136**; select this image
 <p><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/logging-onto-cloud_2.png"width="500"></p>
 4. For 'Choose and Instance Type' select **t2.medium**; then click 'Review and Launch' 
 <p><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/logging-onto-cloud_3.png"width="500"></p>  
@@ -92,10 +96,9 @@ You instance will now be launched. You should follow the links to 'Create billin
 3. At the bottom of the dashboard, you should see a **Public DNS** which will look something like *ec2.12.2.45.678.compute-1.amazonaws.com*. Copy that address (you may wish make a note of it as you will need this each time you connect. 
  <p><img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/logging-onto-cloud_6.png"width="500"></p>
 4. Open the terminal application on your Mac and use 'ssh' to connect. Your command will be:
-
-   ```bash
-$ ssh dcuser@your.amazon.dns
 ```
+    $ ssh dcuser@your.amazon.dns
+    ```
 5. Your computer will be unable to verify the authenticity of the host... type **yes** to continue connecting
 6. Then enter the password for this computer: 'data4Carp'
 
