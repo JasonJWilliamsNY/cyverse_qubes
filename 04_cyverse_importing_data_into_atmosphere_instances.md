@@ -68,10 +68,9 @@ $ iput -P remote_machine_file.txt .
 1. Select the iDrop icon on your desktop
 2. Depending on your the version of iDrop used, you may be prompted for a “pass phrase” – since this step does not allow authentication into your Data Store account a simple, memorable phrase is all that is required. If you are only asked for a username and password – simply enter your CyVerse username and password and continue this guide at step 6
 3. Click the  (Add User) icon to connect iDrop to the iPlant Data Store
-<img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/add_user_icon.jpg, style="width:40px;height:40px;">
+<img src="https://jacksonlab-workshop-2016.readthedocs.io/en/latest/img/add_user_icon.jpg", style="width:40px;height:40px;">
 4. If you are prompted to “Create Grid Account Information” enter the following (paying attention to capitalization) and entering your CyVerse credentials where required:
  
-
     |Prompt|Entry|
     |------|-----|
     |Host|data.iplantcollaborative.org|
@@ -80,6 +79,7 @@ $ iput -P remote_machine_file.txt .
     |User|your CyVerse username|
     |Password|your CyVerse password|
     |Default Resources|iplantRG|
+    
 5. Select the data.iplantcollaborative.org line for your host and then lick click the authentication icon to access the data store. One first setup you may wish to select the “Show GUI at Startup.” option if prompted. 
 6. To upload – select the place on your local computer (left column) where the files are located: - Windows – select your hard drive (e.g. C:\) and then navigate your directory
  - Mac/Linux – select the files or folder you wish to move (most items will be in the /home directoryThen drag the file(s) or folder(s) you wish to transfer into your iPlant Data Store (right column). 7. To download – select the file(s) or folder(s) in your Data Store and drag them to a location on your local computer (left column). To upload data to the Data Store drag the item from a location on your local computer (left column) to the Data Store (right column). 
