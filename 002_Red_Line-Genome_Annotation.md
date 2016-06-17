@@ -15,7 +15,7 @@ Annotation adds features and information to a DNA sequence – such as genes and
 1. Click ‘Augustus’ and wait until a green ‘V’ icon appears. 2. Click ‘Augustus’ again to view a table of results. 3. Repeat (one-at-a-time) steps 1-3 with ‘FGenesH’, ‘Snap.’ ###Questions:
 
 1. Look at the ‘Type’ column in the gene prediction report. Find the gene labeled **Name=AUGUSTUS012;ID=g12**  and copy down the gene’s ‘start’ (i.e. the starting basepair). How many exons are predicted? give their starting locations. 
-
+   
     |Gene Predictor|Start|Exon|
 |--------------|-----|-----|
 |AUGUSTUS|267|1
@@ -28,6 +28,7 @@ Annotation adds features and information to a DNA sequence – such as genes and
 |AUGUSTUS||
 |AUGUSTUS||
 |AUGUSTUS||
+
 2. Based on the chart in question 4, did all the gene predictors yield genes starting at the same location? Did all the gene predictions have the same number of exons?
 3. Looking at the number of results returned by tRNA Scan, why are they so different from results made by other predictors? Are their places in the genome where tRNAs are more or less densely concentrated? 
 
