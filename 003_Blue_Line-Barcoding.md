@@ -15,7 +15,8 @@ Though not covered in this tutorial, the wet-lab protocol and many additional re
 1. Log-in to DNA Subway [dnasubway.iplantcollaborative.org](http://dnasubway.iplantcollaborative.org)2. Click ‘Determine Sequence Relationships.’ (Blue Square) 3. Select project type ‘Barcoding: rbcL.’4. Select sample sequence ‘rbcL sample 1.’5. Provide your project with a title, then Click ‘Continue.’ Alternatively, if you have sequenced your DNA using your Genewiz account, Select ‘Import trace files from DNALC.’ – Then select sequences to import. 
 
 ## View Sequence Data
-1. Click ‘Sequence Viewer’ to show a list of your sequences.2. Click on a sequence name to show the sequences’ trace file.  
+1. Click ‘Sequence Viewer’ to show a list of your sequences.2. Click on a sequence name to show the sequences’ trace file.<br>
+<img src="https://cyverse-qubes.readthedocs.io/en/latest/img/subway_sequence_viewer.jpg", style="width:500px;">  
 
 ### Questions
 1. What do you notice about the electropherogram peaks and quality scores at nucleotide positions labeled “N”?	  
@@ -28,7 +29,8 @@ By default, DNA Subway assumes that all reads are in the forward orientation, an
 This step remove poor quality areas at the 5’ and/or 3’ ends of the consensus sequence.
 
 1. Click on “Trim Consensus.” Scroll left and right in the consensus editor window to identify what string of nucleotides from the consensus sequence you want to trim. 
-2. Click on the last consensus sequence nucleotide that you want to trim. A red line will indicate what nucleotides will be removed from the consensus sequences.
+2. Click on the last consensus sequence nucleotide that you want to trim. A red line will indicate what nucleotides will be removed from the consensus sequences.<br>
+<img src="https://cyverse-qubes.readthedocs.io/en/latest/img/subway_sequence_viewer.jpg", style="width:500px;">  
 3. Click “Trim.” A new “Consensus Editor” window will pop up displaying the trimmed sequences.
 
 ##Check for matches in GenBank
