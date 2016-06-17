@@ -38,7 +38,7 @@ This step remove poor quality areas at the 5’ and/or 3’ ends of the consensu
 1. Click ‘BLASTN' then click the 'BLAST' link to BLAST the sequence of interest. When the search is completed a 'View' link will appear. 2. Examine the BLAST matches for candidate identification. Clicking the species name given in the BLAST hit will also give additional information/photos of the listed species. <br>
 <img src="https://cyverse-qubes.readthedocs.io/en/latest/img/subway_barcode_blast.jpg", style="width:500px;">  3. If desired, select the check box next to any hit, and select ‘Add BLAST hits to project’ to add selected sequences to your project. 
 
-##Questions
+###Questions
 1. BLAST will return the closest matches present in GenBank. Will you be able to identify an unknown species using BLAST alone? Why or Why not?
 
 ##Add Reference data
