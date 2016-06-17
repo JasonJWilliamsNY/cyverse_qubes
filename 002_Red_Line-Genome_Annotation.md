@@ -45,7 +45,7 @@ Annotation adds features and information to a DNA sequence – such as genes and
 ## Search databases
 DNA Subway searches customized versions of UniGene and UniProt that contain only validated plant proteins, and are free of predicted or hypothetical proteins.
 
-1. Click ‘BLASTN’ >Wait until the flashing icon displays ‘V’ (view)2. Click ‘BLASTN’ again to view the results. 3. Click ‘BLASTX’ >Wait until the flashing icon displays ‘V’ (view)4. Click ‘BLASTX’ again to view the results. 
+1. Click ‘BLASTN’; wait until the flashing icon displays ‘V’ (view)2. Click ‘BLASTN’ again to view the results. 3. Click ‘BLASTX’; wait until the flashing icon displays ‘V’ (view)4. Click ‘BLASTX’ again to view the results. 
 5. Click on 'JBrowse' and then click 'Full-screen View' in the upper-left
 6. In the 'Available Tracks' menu, add the Blastn and Blastx tracks. 
 
@@ -93,6 +93,6 @@ Protein and EST data can be used to examine possible alternative transcripts. Pr
 
 ### Compare gene model(s) with existing annotations
 
-After making your gene models you can compare them with existing annotations by turning on the 'Ensemble genes' track. 
+After making your gene models you can compare them with existing annotations by turning on the 'Ensemble genes' track.<br> 
 <img src="https://cyverse-qubes.readthedocs.io/en/latest/img/subway_apollo-roi3.jpg", style="width:500px;">
 In this case, our work confirms the first gene model made, but a potential isoform supported by blastx data is likely incorrect. 
