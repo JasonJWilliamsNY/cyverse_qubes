@@ -27,7 +27,7 @@ DNA Subway is part of the [CyVerse](http://www.cyverse.org/) cyberinfrastructure
 
 DNA Subway supports two modes of use
 
-* **Registered Users:** Registered users have their worked saved, and can return to projects in progress at any time. It is encouraged that each student register for their own account, especially if they will be using Subway for several class periods or over the length of a project. 
+* **Registered Users:** Registered users have their worked saved, and can return to projects in progress at any time. It is encouraged that each student register for their own account, especially if they will be using Subway for several class periods or over the length of a project.<br> 
 <img src="https://cyverse-qubes.readthedocs.io/en/latest/img/subway_projects_registered.jpg", style="width:300px;"><br>
 * **Guest Users:** Guest users will not have their worked saved beyond a single DNA Subway session. They are also disallowed from using one of the gene predictors (FGenesH) in the genomic annotation pipeline (Red Line).  
 <img src="https://cyverse-qubes.readthedocs.io/en/latest/img/subway_no_projects_guest.jpg", style="width:300px;"><br>
