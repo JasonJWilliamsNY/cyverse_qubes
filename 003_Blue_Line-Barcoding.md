@@ -30,12 +30,13 @@ This step remove poor quality areas at the 5’ and/or 3’ ends of the consensu
 
 1. Click on “Trim Consensus.” Scroll left and right in the consensus editor window to identify what string of nucleotides from the consensus sequence you want to trim. 
 2. Click on the last consensus sequence nucleotide that you want to trim. A red line will indicate what nucleotides will be removed from the consensus sequences.<br>
-<img src="https://cyverse-qubes.readthedocs.io/en/latest/img/subway_sequence_viewer.jpg", style="width:500px;">  
+<img src="https://cyverse-qubes.readthedocs.io/en/latest/img/subway_consensus_edit.jpg", style="width:500px;">  
 3. Click “Trim.” A new “Consensus Editor” window will pop up displaying the trimmed sequences.
 
 ##Check for matches in GenBank
 
-1. Click ‘BLASTN' then click the 'BLAST' link to BLAST the sequence of interest. When the search is completed a 'View' link will appear. 2. Examine the BLAST matches for candidate identification. Clicking the species name given in the BLAST hit will also give additional information/photos of the listed species. 3. If desired, select the check box next to any hit, and select ‘Add BLAST hits to project’ to add selected sequences to your project. 
+1. Click ‘BLASTN' then click the 'BLAST' link to BLAST the sequence of interest. When the search is completed a 'View' link will appear. 2. Examine the BLAST matches for candidate identification. Clicking the species name given in the BLAST hit will also give additional information/photos of the listed species. <br>
+<img src="https://cyverse-qubes.readthedocs.io/en/latest/img/subway_barcode_blast.jpg", style="width:500px;">  3. If desired, select the check box next to any hit, and select ‘Add BLAST hits to project’ to add selected sequences to your project. 
 
 ##Questions
 1. BLAST will return the closest matches present in GenBank. Will you be able to identify an unknown species using BLAST alone? Why or Why not?
@@ -52,10 +53,12 @@ Depending on the project type you have created, you will have access to addition
 
 1. Click ‘Select Data.’
 2. Select any and all sequences you wish to add to your tree. 3. Click ‘Save.” to select data 
-4. Click ‘MUSCLE.’5. Click ‘MUSCLE’ again to open the sequence alignment window.
+4. Click ‘MUSCLE.’5. Click ‘MUSCLE’ again to open the sequence alignment window.<br>
+<img src="https://cyverse-qubes.readthedocs.io/en/latest/img/subway-muscle-untrim.jpg", style="width:500px;"> 
 6. Examine the alignment and then select the 'Trim Alignment' link in the upper-left of the Alignment viewer' 
 ### Build phylogenetic tree
-1. Click 'PHYLIP NJ' and then click again to examine a neighbor-joining tree
+1. Click 'PHYLIP NJ' and then click again to examine a neighbor-joining tree<br>
+<img src="https://cyverse-qubes.readthedocs.io/en/latest/img/subway_nj_tree.jpg", style="width:500px;">  
 2. Click 'PHYLIP ML' and then click again to examine a maximum-likelihood tree
 
 ### Questions
