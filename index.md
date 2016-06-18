@@ -3,33 +3,34 @@
 ![](img/cyverse_rgb.jpg) 
 
 ## Welcome to CyVerse!
-**Big Data Genomics for Professors, Jackson Laboratory, May 2016**<br>
+**2016 National Academies Special Topics Summer Institute on Quantitative Biology**<br>
 **Presenter:** 
 - Jason Williams: [williams@cshl.edu](mailto:williams@cshl.edu)
 - Twitter: [@JasonWilliamsNY](https://twitter.com/JasonWilliamsNY)
 
-**CyVerse Vision:** Transforming science through data-driven discovery.
+**CyVerse Vision:** ransforming science through data-driven discovery.
 <br>
 **CyVerse Mission:** Design, deploy, and expand a national cyberinfrastructure for life sciences research and train scientists in its use.
 <br>
-
 CyVerse provides life scientists with powerful computational infrastructure to handle huge datasets and complex analyses, thus enabling data-driven discovery. Our powerful extensible platforms provide data storage, bioinformatics tools, image analyses, cloud services, APIs, and more.
 
 CyVerse is of, by, and for the community, and community-driven needs shape our mission. We rely on your feedback to provide the infrastructure you need most to advance your science, development, and educational agenda.
 
 While originally created with the name iPlant Collaborative to serve U.S. plant science communities, CyVerse cyberinfrastructure is germane to all life sciences disciplines and works equally well on data from plants, animals, or microbes. By democratizing access to supercomputing capabilities, we provide a crucial resource to enable scientists to find solutions for the future.
 
-## Getting Started Guide
+## Workshop Agenda
 
-In this guide we will cover brief tutorials and documentation that will get you started using CyVerse tools and services right away. These tutorials will focus on 5 major applications and resources. 
+In this workshop we will cover brief tutorials and documentation that will get you started using CyVerse tools and services right away. 
 
 * [Account creation and setup](./01_cyverse_account_creation.md)
-* [Uploading, importing, and managing data](./02_cyverse_importing_data.md)
-* [Using Atmosphere cloud computing](./03_cyverse_cloud_computing_with_Atmosphere.md)
-*  [Importing data into Atmosphere](./04_cyverse_importing_data_into_atmosphere_instances.md)
-*  [Cloud computing extras](./05_cyverse_cloud_computing_extras.md)
-* [Understanding CyVerse help resources and policies](./06_cyverse_help_and_policies.md)
-
+* [Intro to DNA Subway](./02_Intro_to_DNA_Subway.md)
+* [DNA Subway Red Line - Genome Annotation](./03_Red_Line-Genome_Annotation.md)
+* [DNA Subway Blue Line - DNA Barcoding](./04_Blue_Line-Barcoding.md)
+* [Using Atmosphere cloud computing](./05_cyverse_cloud_computing_with_Atmosphere.md)
+*  [Importing data into Atmosphere](./06_cyverse_importing_data_into_atmosphere_instances.md)
+* [Cloud computing extras](./07_cyverse_cloud_computing_extras.md)
+* [Uploading, importing, and managing data](./08_cyverse_importing_data.md)
+* [Understanding CyVerse help resources and policies](./09_cyverse_help_and_policies.md)
 
 ## Important Downloads
 
