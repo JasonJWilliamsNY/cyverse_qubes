@@ -94,5 +94,5 @@ Protein and EST data can be used to examine possible alternative transcripts. Pr
 ### Compare gene model(s) with existing annotations
 
 After making your gene models you can compare them with existing annotations by turning on the 'Ensemble genes' track.<br> 
-<img src="https://cyverse-qubes.readthedocs.io/en/latest/img/subway_apollo-roi3.jpg", style="width:500px;">
+<img src="https://cyverse-qubes.readthedocs.io/en/latest/img/subway_apollo-roi3.jpg", style="width:500px;"><br>
 In this case, our work confirms the first gene model made, but a potential isoform supported by blastx data is likely incorrect. 
