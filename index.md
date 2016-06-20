@@ -8,7 +8,7 @@
 - Jason Williams: [williams@cshl.edu](mailto:williams@cshl.edu)
 - Twitter: [@JasonWilliamsNY](https://twitter.com/JasonWilliamsNY)
 
-**CyVerse Vision:** ransforming science through data-driven discovery.
+**CyVerse Vision:** Transforming science through data-driven discovery.
 <br>
 **CyVerse Mission:** Design, deploy, and expand a national cyberinfrastructure for life sciences research and train scientists in its use.
 <br>
@@ -32,12 +32,15 @@ In this workshop we will cover brief tutorials and documentation that will get y
 * [Uploading, importing, and managing data](./08_cyverse_importing_data.md)
 * [Understanding CyVerse help resources and policies](./09_cyverse_help_and_policies.md)
 
-## Important Downloads
+## Resource Downloads
 
 |Topic|Resource|
 |-----|--------|
 |Workshop Intro|[Slides](./ppts_pdfs/workshop_intro.pdf)|
 |Atmosphere|[Slides](./ppts_pdfs/atmosphere.pdf)|
+|DNA Subway|[Slides](./ppts_pdfs/subway_intro.pdf)|
+|DNA Barcoding|[Slides](./ppts_pdfs/barcoding_intro.pdf)|
+|DNA Barcoding Protocol|[Packet](http://www.dnabarcoding101.org/files/using-dna-barcodes.pdf)|
 |Genomics Workflows|[Brochure](./ppts_pdfs/genome_workflows.pdf)|
 
 ### Utilities/software
